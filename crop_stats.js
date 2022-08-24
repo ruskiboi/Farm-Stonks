@@ -8,8 +8,8 @@ function setCrops() {
     const wheat = { seedPrice: 0.75, unitSellValue: 1.00, growTime: 20, itemType: "crop", itemID: 03 };
     const beetroot = { seedPrice: 0.50, unitSellValue: 0.75, growTime: 20, itemType: "crop", itemID: 04 };
     const tomato = { seedPrice: 1.00, unitSellValue: 1.50, growTime: 30, itemType: "crop", itemID: 05 };
-    const corn = { seedPrice: 7.26, unitSellValue: 1.00, growTime: 40, itemType: "crop", itemID: 06 };
-    const carrot = { seedPrice: 1.00, unitSellValue: 1.25, growTime: 20, itemType: "crop", itemID: 07 };
+    const corn = { seedPrice: 0.00, unitSellValue: 7.26, growTime: 40, itemType: "crop", itemID: 06 };
+    const carrot = { seedPrice: 1.00, unitSellValue: 50.60, growTime: 20, itemType: "crop", itemID: 07 };
     const watermelon = { seedPrice: 1.50, unitSellValue: 2.00, growTime: 50, itemType: "crop", itemID: 08 };
     const pumpkin = { seedPrice: 1.25, unitSellValue: 1.75, growTime: 40, itemType: "crop", itemID: 09 };
 
