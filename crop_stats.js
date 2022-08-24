@@ -4,8 +4,8 @@
 function setCrops() {
 
     const apple = { seedPrice: 1.25, unitSellValue: 0.317, growTime: 20, itemType: "crop", itemID: 01 };
-    const potato = { seedPrice: 0.50, unitSellValue: 0.75, growTime: 20, itemType: "crop", itemID: 02 };
-    const wheat = { seedPrice: 0.75, unitSellValue: 8.48, growTime: 20, itemType: "crop", itemID: 03 };
+    const potato = { seedPrice: 0.50, unitSellValue: 9.92, growTime: 20, itemType: "crop", itemID: 02 };
+    const wheat = { seedPrice: 0.75, unitSellValue: 9.55, growTime: 20, itemType: "crop", itemID: 03 };
     const beetroot = { seedPrice: 0.50, unitSellValue: 0.75, growTime: 20, itemType: "crop", itemID: 04 };
     const tomato = { seedPrice: 1.00, unitSellValue: 1.50, growTime: 30, itemType: "crop", itemID: 05 };
     const corn = { seedPrice: 0.00, unitSellValue: 7.26, growTime: 40, itemType: "crop", itemID: 06 };
