@@ -3,15 +3,15 @@
 
 function setCrops() {
 
-    const apple = { price: 1.25, sellValue: 1.50, growTime: 20, item_type: "crop", itemID: 01 };
-    const potato = { price: 0.50, sellValue: 0.75, growTime: 20, item_type: "crop", itemID: 02 };
-    const wheat = { price: 0.75, sellValue: 1.00, growTime: 20, item_type: "crop", itemID: 03 };
-    const beetroot = { price: 0.50, sellValue: 0.75, growTime: 20, item_type: "crop", itemID: 04 };
-    const tomato = { price: 1.00, sellValue: 1.50, growTime: 30, item_type: "crop", itemID: 05 };
-    const corn = { price: 0.75, sellValue: 1.00, growTime: 40, item_type: "crop", itemID: 06 };
-    const carrot = { price: 1.00, sellValue: 1.25, growTime: 20, item_type: "crop", itemID: 07 };
-    const watermelon = { price: 1.50, sellValue: 2.00, growTime: 50, item_type: "crop", itemID: 08 };
-    const pumpkin = { price: 1.25, sellValue: 1.75, growTime: 40, item_type: "crop", itemID: 09 };
+    const apple = { seedPrice: 1.25, unitSellValue: 1.50, growTime: 20, itemType: "crop", itemID: 01 };
+    const potato = { seedPrice: 0.50, unitSellValue: 0.75, growTime: 20, itemType: "crop", itemID: 02 };
+    const wheat = { seedPrice: 0.75, unitSellValue: 1.00, growTime: 20, itemType: "crop", itemID: 03 };
+    const beetroot = { seedPrice: 0.50, unitSellValue: 0.75, growTime: 20, itemType: "crop", itemID: 04 };
+    const tomato = { seedPrice: 1.00, unitSellValue: 1.50, growTime: 30, itemType: "crop", itemID: 05 };
+    const corn = { seedPrice: 7.26, unitSellValue: 1.00, growTime: 40, itemType: "crop", itemID: 06 };
+    const carrot = { seedPrice: 1.00, unitSellValue: 1.25, growTime: 20, itemType: "crop", itemID: 07 };
+    const watermelon = { seedPrice: 1.50, unitSellValue: 2.00, growTime: 50, itemType: "crop", itemID: 08 };
+    const pumpkin = { seedPrice: 1.25, unitSellValue: 1.75, growTime: 40, itemType: "crop", itemID: 09 };
 
 };
 
