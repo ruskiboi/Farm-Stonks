@@ -42,7 +42,7 @@ function setManualHarvestingTools() {
     const fiberglass_sickle = { price: 0.00, sellValue: 0.00, toolLevel: 4, itemType: "manual_harvesting_tools", itemID: 3 };
     const aluiminum_sickle = { price: 0.00, sellValue: 0.00, toolLevel: 5, itemType: "manual_harvesting_tools", itemID: 4 };
     const steel_sickle = { price: 0.00, sellValue: 0.00, toolLevel: 6, itemType: "manual_harvesting_tools", itemID: 5 };
-    const carbon_fiber_hoe = { price: 0.00, sellValue: 0.00, toolLevel: 7, itemType: "manual_harvesting_tools", itemID: 6 };
-    const titanium_hoe = { price: 0.00, sellValue: 0.00, toolLevel: 8, itemType: "manual_harvesting_tools", itemID: 7 };
+    const carbon_fiber_sickle = { price: 0.00, sellValue: 0.00, toolLevel: 7, itemType: "manual_harvesting_tools", itemID: 6 };
+    const titanium_sickle = { price: 0.00, sellValue: 0.00, toolLevel: 8, itemType: "manual_harvesting_tools", itemID: 7 };
     
 };
